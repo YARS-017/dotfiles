@@ -1,3 +1,5 @@
+!yarso
+
 !Scroll Bar
 URxvt.scrollBar: false
 
