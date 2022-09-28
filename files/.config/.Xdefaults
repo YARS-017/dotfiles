@@ -1,0 +1,60 @@
+!Scroll Bar
+URxvt.scrollBar: false
+
+URxvt.keysym.Shift-Up: command:\033]720;1\007
+URxvt.keysym.Shift-Down: command:\033]721;1\007
+
+!Fuente
+URxvt.font:     xft:Consolas:size=12
+
+!Transparencia 
+urxvt*depth: 32 
+URxvt.background: [85]#282828
+
+!Separacion entre caracteres
+URxvt.letterSpace: -1
+
+!Cortar y pegar
+URxvt.keysym.Shift-Control-V: eval:paste_clipboard
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+!Colores
+
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #cc342b
+*.color9:       #cc342b
+
+! green
+*.color2:       #198844
+*.color10:      #198844
+
+! yellow
+*.color3:       #fba922
+*.color11:      #fba922
+
+! blue
+*.color4:       #3971ed
+*.color12:      #3971ed
+
+! magenta
+*.color5:       #a36ac7
+*.color13:      #a36ac7
+
+! cyan
+*.color6:       #3971ed
+*.color14:      #3971ed
+
+! white
+*.color7:       #c5c8c6
+*.color15:      #ffffff
