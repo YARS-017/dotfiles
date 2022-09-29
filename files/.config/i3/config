@@ -1,3 +1,14 @@
+#Disable gaps to unique window
+smart_borders on
+smart_gaps on
+
+#Set inner/outer gaps
+gaps inner 6
+gaps outer 3
+
+#Windows out menu
+for_window [class=".*"] border pixel 2
+
 # start a terminal
 bindsym $mod+Return exec urxvt
 
