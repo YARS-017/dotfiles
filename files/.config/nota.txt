@@ -1,7 +1,26 @@
 nvim //como editor de texto
 urxvt // como emulador de terminal
+SF Pro Display // Fuente favorita (para la terminal siempre consolas porque soy pro hacker un link 4k)
+Rofi // App launcher 
+Discord
+Brave
+Spotify
+Vs Code
+
+$mod+q to kill windows
+$mod+m to show rofi-wifi-menu
 
 bash prompt generator //  https://scriptim.github.io/bash-prompt-generator/
 añadir scripts al PATH // https://www.youtube.com/watch?v=yqR16ouSums
 controlae brillo // https://facilitarelsoftwarelibre.blogspot.com/2020/07/control-de-brillo-para-pantallas-con-xgamma.html
 rendimiento // https://www.solvetic.com/tutoriales/article/4280-como-mejorar-velocidad-y-rendimiento-linux/
+
+Copiar el archivo conf de i3status de no se donde y ponerlo en .config/i3status/i3status.conf
+
+sudo pacman -S feh
+sudo pacman -S font-manager
+sudo pacman -S nitrogen
+sudo pacman -S nvim
+sudo pacman -S yay
+sudo pacman -S picom
+sudo pacman -S dotnet
