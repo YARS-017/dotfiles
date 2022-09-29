@@ -1,0 +1,7 @@
+nvim //como editor de texto
+urxvt // como emulador de terminal
+
+bash prompt generator //  https://scriptim.github.io/bash-prompt-generator/
+añadir scripts al PATH // https://www.youtube.com/watch?v=yqR16ouSums
+controlae brillo // https://facilitarelsoftwarelibre.blogspot.com/2020/07/control-de-brillo-para-pantallas-con-xgamma.html
+rendimiento // https://www.solvetic.com/tutoriales/article/4280-como-mejorar-velocidad-y-rendimiento-linux/
