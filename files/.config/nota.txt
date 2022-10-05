@@ -14,6 +14,7 @@ bash prompt generator //  https://scriptim.github.io/bash-prompt-generator/
 añadir scripts al PATH // https://www.youtube.com/watch?v=yqR16ouSums
 controlae brillo // https://facilitarelsoftwarelibre.blogspot.com/2020/07/control-de-brillo-para-pantallas-con-xgamma.html
 rendimiento // https://www.solvetic.com/tutoriales/article/4280-como-mejorar-velocidad-y-rendimiento-linux/
+dotfile antoniosarosi // https://github.com/antoniosarosi/dotfiles
 
 Copiar el archivo conf de i3status de no se donde y ponerlo en .config/i3status/i3status.conf
 
